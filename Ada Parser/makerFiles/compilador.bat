@@ -1,0 +1,1 @@
+javac.exe -d ../classFiles *.java
