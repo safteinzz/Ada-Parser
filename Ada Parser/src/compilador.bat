@@ -1,0 +1,1 @@
+javac.exe -d ../compilacion *.java

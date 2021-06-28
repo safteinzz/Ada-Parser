@@ -1,20 +1,24 @@
 --
 --  Programa en ADA
+
 --
 procedure Principal is
 	--  Declaraciones
 	A, B : Integer := 0;
 	C    : Integer := 100;
+	
 	D    : Integer;
 	I, J : Float := 0.0;
 begin
 	A := A + 20;
 	A := A - 1;
 	A := A * 1;
+	
 	A := A / (1 * ( 10 + 9 ));
 	if A = 1
 		then
-			D := 1;
+		
+			D := 1;	
 	end if;
 	if C /= 100
     then

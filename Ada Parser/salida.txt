@@ -1,0 +1,160 @@
+[token en Linea:0 Posicion:0 = "--"] Es un Comentario
+[token en Linea:1 Posicion:0 = "--  Programa en ADA"] Es un Comentario
+[token en Linea:3 Posicion:0 = "--"] Es un Comentario
+[token en Linea:4 Posicion:0 = "procedure"] Es un Metodo
+[token en Linea:4 Posicion:10 = "Principal"] Es un identificador
+[token en Linea:4 Posicion:20 = "is"] Es un Declarador
+[token en Linea:5 Posicion:1 = "--  Declaraciones"] Es un Comentario
+[token en Linea:6 Posicion:1 = "A"] Es un identificador
+[token en Linea:6 Posicion:2 = ","] Es un Coma
+[token en Linea:6 Posicion:4 = "B"] Es un identificador
+[token en Linea:6 Posicion:6 = ":"] Es un Dos puntos
+[token en Linea:6 Posicion:8 = "Integer"] Es un Tipo
+[token en Linea:6 Posicion:16 = ":="] Es un Asignacion
+[token en Linea:6 Posicion:19 = "0"] Es un Entero
+[token en Linea:6 Posicion:20 = ";"] Es un Final de sentencia
+[token en Linea:7 Posicion:1 = "C"] Es un identificador
+[token en Linea:7 Posicion:6 = ":"] Es un Dos puntos
+[token en Linea:7 Posicion:8 = "Integer"] Es un Tipo
+[token en Linea:7 Posicion:16 = ":="] Es un Asignacion
+[token en Linea:7 Posicion:19 = "100"] Es un Entero
+[token en Linea:7 Posicion:22 = ";"] Es un Final de sentencia
+[token en Linea:9 Posicion:1 = "D"] Es un identificador
+[token en Linea:9 Posicion:6 = ":"] Es un Dos puntos
+[token en Linea:9 Posicion:8 = "Integer"] Es un Tipo
+[token en Linea:9 Posicion:15 = ";"] Es un Final de sentencia
+[token en Linea:10 Posicion:1 = "I"] Es un identificador
+[token en Linea:10 Posicion:2 = ","] Es un Coma
+[token en Linea:10 Posicion:4 = "J"] Es un identificador
+[token en Linea:10 Posicion:6 = ":"] Es un Dos puntos
+[token en Linea:10 Posicion:8 = "Float"] Es un Tipo
+[token en Linea:10 Posicion:14 = ":="] Es un Asignacion
+[token en Linea:10 Posicion:17 = "0.0"] Es un Real
+[token en Linea:10 Posicion:20 = ";"] Es un Final de sentencia
+[token en Linea:11 Posicion:0 = "begin"] Es un Inicio de bloque
+[token en Linea:12 Posicion:1 = "A"] Es un identificador
+[token en Linea:12 Posicion:3 = ":="] Es un Asignacion
+[token en Linea:12 Posicion:6 = "A"] Es un identificador
+[token en Linea:12 Posicion:8 = "+"] Es un Suma
+[token en Linea:12 Posicion:10 = "20"] Es un Entero
+[token en Linea:12 Posicion:12 = ";"] Es un Final de sentencia
+[token en Linea:13 Posicion:1 = "A"] Es un identificador
+[token en Linea:13 Posicion:3 = ":="] Es un Asignacion
+[token en Linea:13 Posicion:6 = "A"] Es un identificador
+[token en Linea:13 Posicion:8 = "-"] Es un Resta
+[token en Linea:13 Posicion:10 = "1"] Es un Entero
+[token en Linea:13 Posicion:11 = ";"] Es un Final de sentencia
+[token en Linea:14 Posicion:1 = "A"] Es un identificador
+[token en Linea:14 Posicion:3 = ":="] Es un Asignacion
+[token en Linea:14 Posicion:6 = "A"] Es un identificador
+[token en Linea:14 Posicion:8 = "*"] Es un Multiplicacion
+[token en Linea:14 Posicion:10 = "1"] Es un Entero
+[token en Linea:14 Posicion:11 = ";"] Es un Final de sentencia
+[token en Linea:16 Posicion:1 = "A"] Es un identificador
+[token en Linea:16 Posicion:3 = ":="] Es un Asignacion
+[token en Linea:16 Posicion:6 = "A"] Es un identificador
+[token en Linea:16 Posicion:8 = "/"] Es un Division
+[token en Linea:16 Posicion:10 = "("] Es un Abre parentesis
+[token en Linea:16 Posicion:11 = "1"] Es un Entero
+[token en Linea:16 Posicion:13 = "*"] Es un Multiplicacion
+[token en Linea:16 Posicion:15 = "("] Es un Abre parentesis
+[token en Linea:16 Posicion:17 = "10"] Es un Entero
+[token en Linea:16 Posicion:20 = "+"] Es un Suma
+[token en Linea:16 Posicion:22 = "9"] Es un Entero
+[token en Linea:16 Posicion:24 = ")"] Es un Cierraparentesis
+[token en Linea:16 Posicion:25 = ")"] Es un Cierraparentesis
+[token en Linea:16 Posicion:26 = ";"] Es un Final de sentencia
+[token en Linea:17 Posicion:1 = "if"] Es un Operador logico
+[token en Linea:17 Posicion:4 = "A"] Es un identificador
+[token en Linea:17 Posicion:6 = "="] Es un Operador racional
+[token en Linea:17 Posicion:8 = "1"] Es un Entero
+[token en Linea:18 Posicion:2 = "then"] Es un Inicio de operador logico
+[token en Linea:20 Posicion:3 = "D"] Es un identificador
+[token en Linea:20 Posicion:5 = ":="] Es un Asignacion
+[token en Linea:20 Posicion:8 = "1"] Es un Entero
+[token en Linea:20 Posicion:9 = ";"] Es un Final de sentencia
+[token en Linea:21 Posicion:1 = "end"] Es un Delimitador
+[token en Linea:21 Posicion:5 = "if"] Es un Operador logico
+[token en Linea:21 Posicion:7 = ";"] Es un Final de sentencia
+[token en Linea:22 Posicion:1 = "if"] Es un Operador logico
+[token en Linea:22 Posicion:4 = "C"] Es un identificador
+[token en Linea:22 Posicion:6 = "/="] Es un Operador racional
+[token en Linea:22 Posicion:9 = "100"] Es un Entero
+[token en Linea:23 Posicion:4 = "then"] Es un Inicio de operador logico
+[token en Linea:24 Posicion:8 = "D"] Es un identificador
+[token en Linea:24 Posicion:10 = ":="] Es un Asignacion
+[token en Linea:24 Posicion:13 = "0"] Es un Entero
+[token en Linea:24 Posicion:14 = ";"] Es un Final de sentencia
+[token en Linea:25 Posicion:4 = "elsif"] Es un Operador logico
+[token en Linea:25 Posicion:10 = "C"] Es un identificador
+[token en Linea:25 Posicion:12 = ">"] Es un Operador racional
+[token en Linea:25 Posicion:14 = "100"] Es un Entero
+[token en Linea:26 Posicion:4 = "then"] Es un Inicio de operador logico
+[token en Linea:27 Posicion:8 = "D"] Es un identificador
+[token en Linea:27 Posicion:10 = ":="] Es un Asignacion
+[token en Linea:27 Posicion:13 = "C"] Es un identificador
+[token en Linea:27 Posicion:15 = "*"] Es un Multiplicacion
+[token en Linea:27 Posicion:17 = "A"] Es un identificador
+[token en Linea:27 Posicion:18 = ";"] Es un Final de sentencia
+[token en Linea:28 Posicion:1 = "else"] Es un Final de operador logico
+[token en Linea:29 Posicion:5 = "D"] Es un identificador
+[token en Linea:29 Posicion:7 = ":="] Es un Asignacion
+[token en Linea:29 Posicion:10 = "C"] Es un identificador
+[token en Linea:29 Posicion:12 = "/"] Es un Division
+[token en Linea:29 Posicion:14 = "10"] Es un Entero
+[token en Linea:29 Posicion:16 = ";"] Es un Final de sentencia
+[token en Linea:30 Posicion:1 = "end"] Es un Delimitador
+[token en Linea:30 Posicion:5 = "if"] Es un Operador logico
+[token en Linea:30 Posicion:7 = ";"] Es un Final de sentencia
+[token en Linea:31 Posicion:1 = "while"] Es un Bucle
+[token en Linea:31 Posicion:7 = "D"] Es un identificador
+[token en Linea:31 Posicion:9 = "<"] Es un Operador racional
+[token en Linea:31 Posicion:11 = "C"] Es un identificador
+[token en Linea:31 Posicion:14 = "loop"] Es un Bucle
+[token en Linea:32 Posicion:2 = "D"] Es un identificador
+[token en Linea:32 Posicion:4 = ":="] Es un Asignacion
+[token en Linea:32 Posicion:7 = "D"] Es un identificador
+[token en Linea:32 Posicion:9 = "+"] Es un Suma
+[token en Linea:32 Posicion:11 = "1"] Es un Entero
+[token en Linea:32 Posicion:12 = ";"] Es un Final de sentencia
+[token en Linea:33 Posicion:1 = "end"] Es un Delimitador
+[token en Linea:33 Posicion:5 = "loop"] Es un Bucle
+[token en Linea:33 Posicion:9 = ";"] Es un Final de sentencia
+[token en Linea:34 Posicion:1 = "for"] Es un Bucle
+[token en Linea:34 Posicion:5 = "J"] Es un identificador
+[token en Linea:34 Posicion:7 = "in"] Es un Iterador
+[token en Linea:34 Posicion:10 = "0"] Es un Entero
+[token en Linea:34 Posicion:12 = ".."] Es un Operador de rango
+[token en Linea:34 Posicion:15 = "2"] Es un Entero
+[token en Linea:34 Posicion:17 = "loop"] Es un Bucle
+[token en Linea:35 Posicion:2 = "D"] Es un identificador
+[token en Linea:35 Posicion:4 = ":="] Es un Asignacion
+[token en Linea:35 Posicion:7 = "D"] Es un identificador
+[token en Linea:35 Posicion:9 = "-"] Es un Resta
+[token en Linea:35 Posicion:11 = "1"] Es un Entero
+[token en Linea:35 Posicion:12 = ";"] Es un Final de sentencia
+[token en Linea:36 Posicion:1 = "end"] Es un Delimitador
+[token en Linea:36 Posicion:5 = "loop"] Es un Bucle
+[token en Linea:36 Posicion:9 = ";"] Es un Final de sentencia
+[token en Linea:37 Posicion:0 = "end"] Es un Delimitador
+[token en Linea:37 Posicion:4 = "Principal"] Es un identificador
+[token en Linea:37 Posicion:13 = ";"] Es un Final de sentencia
+[token en Linea:39 Posicion:0 = "procedure"] Es un Metodo
+[token en Linea:39 Posicion:10 = "Secundario"] Es un identificador
+[token en Linea:39 Posicion:21 = "is"] Es un Declarador
+[token en Linea:40 Posicion:1 = "K"] Es un identificador
+[token en Linea:40 Posicion:3 = ":"] Es un Dos puntos
+[token en Linea:40 Posicion:5 = "Float"] Es un Tipo
+[token en Linea:40 Posicion:11 = ":="] Es un Asignacion
+[token en Linea:40 Posicion:14 = "0.0"] Es un Real
+[token en Linea:40 Posicion:17 = ";"] Es un Final de sentencia
+[token en Linea:41 Posicion:0 = "begin"] Es un Inicio de bloque
+[token en Linea:42 Posicion:4 = "K"] Es un identificador
+[token en Linea:42 Posicion:6 = ":="] Es un Asignacion
+[token en Linea:42 Posicion:9 = "22.1"] Es un Real
+[token en Linea:42 Posicion:14 = "+"] Es un Suma
+[token en Linea:42 Posicion:16 = "2.3"] Es un Real
+[token en Linea:42 Posicion:19 = ";"] Es un Final de sentencia
+[token en Linea:43 Posicion:0 = "end"] Es un Delimitador
+[token en Linea:43 Posicion:4 = "Secundario"] Es un identificador
+[token en Linea:43 Posicion:14 = ";"] Es un Final de sentencia

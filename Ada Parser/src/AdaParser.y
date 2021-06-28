@@ -15,7 +15,7 @@
     AdaParserLexer lexer = new AdaParserLexer(System.in);
     AdaParser parser = new AdaParser(lexer);
     if(parser.parse())
-      System.out.println("Parsing Result = SUCCESS");
+      System.out.println("------------------------------------------\nParseo COMPLETADO: Codigo OK, gramatica correcta!");
     return;
   }
 }
@@ -51,6 +51,7 @@ MULTIASIG :
 ;
 	
 AFTERBEGIN : 
+	| linea AFTERBEGIN
 	| comentario linea AFTERBEGIN
 	| identificador asignacion OPERACION finaldesentencia linea AFTERBEGIN
 	| bucle REP linea AFTERBEGIN
@@ -118,7 +119,8 @@ class AdaParserLexer implements AdaParser.Lexer {
 
   @Override
   public void yyerror (String s){
-    System.err.println(s);
+	System.out.println("------------------------------------------\nParseo COMPLETADO: Codigo incorrecto, gramatica no contemplada");
+    System.err.println("\t-> Error: " + s);
   }
 
   @Override
@@ -128,6 +130,7 @@ class AdaParserLexer implements AdaParser.Lexer {
 
   @Override
   public int yylex () throws IOException{	
-    return yylex.yylex();
+	int token = yylex.yylex();
+    return token;
   }
 }

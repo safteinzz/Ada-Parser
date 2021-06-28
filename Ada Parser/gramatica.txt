@@ -1,0 +1,44 @@
+Comentario Linea 
+Comentario Linea 
+Linea 
+Comentario Linea 
+Metodo identificador Declarador Linea 
+Comentario Linea 
+identificador Coma identificador Dos puntos Tipo Asignacion Entero Final de sentencia Linea 
+identificador Dos puntos Tipo Asignacion Entero Final de sentencia Linea 
+Linea 
+identificador Dos puntos Tipo Final de sentencia Linea 
+identificador Coma identificador Dos puntos Tipo Asignacion Real Final de sentencia Linea 
+Inicio de bloque Linea 
+identificador Asignacion identificador Suma Entero Final de sentencia Linea 
+identificador Asignacion identificador Resta Entero Final de sentencia Linea 
+identificador Asignacion identificador Multiplicacion Entero Final de sentencia Linea 
+Linea 
+identificador Asignacion identificador Division Abre parentesis Entero Multiplicacion Abre parentesis Entero Suma Entero Cierraparentesis Cierraparentesis Final de sentencia Linea 
+Operador logico identificador Operador racional Entero Linea 
+Inicio de operador logico Linea 
+Linea 
+identificador Asignacion Entero Final de sentencia Linea 
+Delimitador Operador logico Final de sentencia Linea 
+Operador logico identificador Operador racional Entero Linea 
+Inicio de operador logico Linea 
+identificador Asignacion Entero Final de sentencia Linea 
+Operador logico identificador Operador racional Entero Linea 
+Inicio de operador logico Linea 
+identificador Asignacion identificador Multiplicacion identificador Final de sentencia Linea 
+Final de operador logico Linea 
+identificador Asignacion identificador Division Entero Final de sentencia Linea 
+Delimitador Operador logico Final de sentencia Linea 
+Bucle identificador Operador racional identificador Bucle Linea 
+identificador Asignacion identificador Suma Entero Final de sentencia Linea 
+Delimitador Bucle Final de sentencia Linea 
+Bucle identificador Iterador Entero Operador de rango Entero Bucle Linea 
+identificador Asignacion identificador Resta Entero Final de sentencia Linea 
+Delimitador Bucle Final de sentencia Linea 
+Delimitador identificador Final de sentencia Linea 
+Linea 
+Metodo identificador Declarador Linea 
+identificador Dos puntos Tipo Asignacion Real Final de sentencia Linea 
+Inicio de bloque Linea 
+identificador Asignacion Real Suma Real Final de sentencia Linea 
+Delimitador identificador Final de sentencia 
